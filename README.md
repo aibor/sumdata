@@ -26,3 +26,33 @@ So please note, there is probably not enough memory to load the file complete in
 
 results
 =======
+
+	$ ./run.sh 
+	
+	==== BASH ====
+	Author: github.com/markuman
+	Original size 117261679 kb
+	Compressed size 96727557 kb
+	
+	real	0m2.670s
+	user	0m2.153s
+	sys	0m0.515s
+	
+	==== LUA ====
+	Author: github.com/markuman
+	Original Size: 117261680 kb
+	Compressed Size: 96727557 kb
+	
+	real	0m5.121s
+	user	0m5.028s
+	sys	0m0.090s
+	
+	==== LUAJIT ====
+	Author: github.com/markuman
+	Original Size: 117261680 kb
+	Compressed Size: 96727557 kb
+	
+	real	0m2.847s
+	user	0m2.787s
+	sys	0m0.058s
+	
