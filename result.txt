@@ -1,0 +1,36 @@
+
+==== BASH ====
+Author: github.com/markuman
+Original size 117261679 kb
+Compressed size 96727557 kb
+
+real	0m2.558s
+user	0m2.156s
+sys	0m0.395s
+
+==== LUA ====
+Author: github.com/markuman
+Original Size: 117261680 kb
+Compressed Size: 96727557 kb
+
+real	0m5.189s
+user	0m5.052s
+sys	0m0.130s
+
+==== LUAJIT ====
+Author: github.com/markuman
+Original Size: 117261680 kb
+Compressed Size: 96727557 kb
+
+real	0m2.946s
+user	0m2.847s
+sys	0m0.084s
+
+==== OCTAVE ====
+Author: github.com/markuman
+Original size 117261679.920000kb
+Compressed size 96727557.137000kb
+
+real	2m9.657s
+user	2m7.124s
+sys	0m2.292s
