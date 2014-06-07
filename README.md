@@ -9,6 +9,7 @@ show me how fast your favorite language is
 * separator is 1-5 spaces
 * sum column 5, divide the result with 1000 and display it as "Original size $var kb.\n"
 * sum column 6, divide the result with 1000 and display it as "Compressed size $var kb.\n"
+* `system()` or `exec` commands etc. are not allowed for script languages
 
 I'll run every committed script on the same digital ocean 512MB VPS to have compareable values.  
 So please note, there is probably not enough memory to load the file complete into the memory.
