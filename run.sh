@@ -12,3 +12,6 @@ time ./script-lang/sumdata.lua data.log
 printf '\n==== LUAJIT ====\nAuthor: github.com/markuman\n'
 time luajit ./script-lang/sumdata.lua data.log
 
+# octave
+printf '\n==== OCTAVE ====\nAuthor: github.com/markuman\n'
+time octave -q script-lang/sumdata.m
