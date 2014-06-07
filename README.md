@@ -10,8 +10,11 @@ show me how fast your favorite language is
 * sum column 5, divide the result with 1000 and display it as "Original size $var kb.\n"
 * sum column 6, divide the result with 1000 and display it as "Compressed size $var kb.\n"
 
+I'll run every committed script on the same digital ocean 512MB VPS to have compareable values.  
+So please note, there is probably not enough memory to load the file complete into the memory.
 
-I'll run every committed script on the same digital ocean 512MB VPS to have compareable values.
+* `data.log.tar.xz` is the big file
+* `testdata.log` is a small 100 lines long file for development
 
 #### most wanted
 * python
