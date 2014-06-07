@@ -25,3 +25,21 @@ So please note, there is probably not enough memory to load the file complete in
 results
 =======
 
+    ==== BASH ====
+    Author: github.com/markuman
+    Original size 117261679 kb
+    Compressed size 96727557 kb
+    
+    real	0m3.372s
+    user	0m2.768s
+    sys		0m0.480s
+    
+    ==== LUA ====
+    Author: github.com/markuman
+    Original Size: 117261680 kb
+    Compressed Size: 96727557 kb
+    
+    real	0m6.106s
+    user	0m6.036s
+    sys		0m0.060s
+
