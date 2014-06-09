@@ -17,6 +17,11 @@ So please note, there is probably not enough memory to load the file complete in
 * `data.log.tar.xz` is the big file
 * `testdata.log` is a small 100 lines long file for development
 
+#### finished
+* lua
+* octave
+* awk
+
 #### most wanted
 * python
 * ruby
