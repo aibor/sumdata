@@ -1,36 +1,36 @@
 
-==== BASH ====
+==== AWK ====
 Author: github.com/markuman
-Original size 117261679 kb
-Compressed size 96727557 kb
+Original size 1.17262e+08 kb
+Compressed size 9.67276e+07 kb
 
-real	0m2.558s
-user	0m2.156s
-sys	0m0.395s
+real	0m1.483s
+user	0m1.186s
+sys	0m0.297s
 
 ==== LUA ====
 Author: github.com/markuman
 Original Size: 117261680 kb
 Compressed Size: 96727557 kb
 
-real	0m5.189s
-user	0m5.052s
-sys	0m0.130s
+real	0m5.232s
+user	0m5.111s
+sys	0m0.119s
 
 ==== LUAJIT ====
 Author: github.com/markuman
 Original Size: 117261680 kb
 Compressed Size: 96727557 kb
 
-real	0m2.946s
-user	0m2.847s
-sys	0m0.084s
+real	0m2.895s
+user	0m2.826s
+sys	0m0.068s
 
 ==== OCTAVE ====
 Author: github.com/markuman
 Original size 117261679.920000kb
 Compressed size 96727557.137000kb
 
-real	2m9.657s
-user	2m7.124s
-sys	0m2.292s
+real	2m16.168s
+user	2m11.335s
+sys	0m4.010s
