@@ -15,3 +15,7 @@ time luajit ./script-lang/sumdata.lua data.log
 # octave
 printf '\n==== OCTAVE ====\nAuthor: github.com/markuman\n'
 time octave -q script-lang/sumdata.m
+
+# perl
+printf '\n==== PERL ====\nAuthor: Sebastian\n'
+time perl ./script-lang/sumdata.pl
