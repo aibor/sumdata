@@ -21,6 +21,7 @@ So please note, there is probably not enough memory to load the file complete in
 * lua
 * octave
 * awk
+* perl
 
 #### most wanted
 * python
