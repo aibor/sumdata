@@ -4,42 +4,42 @@ Author: github.com/markuman
 Original size 1.17262e+08 kb
 Compressed size 9.67276e+07 kb
 
-real	0m1.514s
-user	0m1.198s
-sys	0m0.316s
+real	0m1.732s
+user	0m1.210s
+sys	0m0.377s
 
 ==== LUA ====
 Author: github.com/markuman
 Original Size: 117261680 kb
 Compressed Size: 96727557 kb
 
-real	0m5.080s
-user	0m4.996s
-sys	0m0.082s
+real	0m3.744s
+user	0m3.581s
+sys	0m0.158s
 
 ==== LUAJIT ====
 Author: github.com/markuman
 Original Size: 117261680 kb
 Compressed Size: 96727557 kb
 
-real	0m3.111s
-user	0m3.054s
-sys	0m0.056s
+real	0m2.130s
+user	0m2.071s
+sys	0m0.054s
 
 ==== OCTAVE ====
 Author: github.com/markuman
 Original size 117261679.920000kb
 Compressed size 96727557.137000kb
 
-real	2m11.418s
-user	2m9.231s
-sys	0m1.882s
+real	2m11.486s
+user	2m8.219s
+sys	0m2.806s
 
 ==== PERL ====
 Author: Sebastian
 Original size 117261679 kb.
 Compressed size 96727557 kb.
 
-real	0m2.430s
-user	0m2.358s
-sys	0m0.069s
+real	0m2.458s
+user	0m2.315s
+sys	0m0.140s
