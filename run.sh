@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # bash
-printf '\n==== BASH ====\nAuthor: github.com/markuman\n'
-time ./script-lang/sumdata.sh data.log
+printf '\n==== AWK ====\nAuthor: github.com/markuman\n'
+time ./script-lang/sumdata.awk data.log
 
 # lua
 printf '\n==== LUA ====\nAuthor: github.com/markuman\n'
