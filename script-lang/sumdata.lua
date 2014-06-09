@@ -11,6 +11,7 @@ for line in io.lines(arg[1]) do
             ot = n
         elseif l == 6 then
             ct = n
+			break
         end
         l = l + 1
     end
