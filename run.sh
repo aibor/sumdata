@@ -23,3 +23,7 @@ time octave -q script-lang/sumdata.m
 # perl
 printf '\n==== PERL ====\nAuthor: Sebastian\n'
 time perl ./script-lang/sumdata.pl
+
+# ruby
+printf '\n==== RUBY ====\nAuthor: github.com/aibor\n'
+time ruby script-lang/sumdata.rb
