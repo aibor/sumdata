@@ -1,6 +1,7 @@
 #!/bin/bash
 
 declare -i sum_{original,compressed}=0
+
 while read -r dummy dummy dummy dummy original compressed dummy
 do
   sum_original+=$original
