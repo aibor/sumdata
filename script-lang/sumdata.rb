@@ -12,5 +12,5 @@ File.open(ARGV[0]) do |f|
   end
 end
 
-puts "Original size #{sum_original} kb"
-puts "Original size #{sum_compressed} kb"
+puts "Original size #{sum_original/1000} kb"
+puts "Original size #{sum_compressed/1000} kb"

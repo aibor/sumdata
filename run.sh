@@ -26,4 +26,4 @@ time perl script-lang/sumdata.pl
 
 # ruby
 printf '\n==== RUBY ====\nAuthor: github.com/aibor\n'
-time ruby script-lang/sumdata.rb
+time ruby script-lang/sumdata.rb data.log
